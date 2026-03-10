@@ -2,6 +2,10 @@
 
 Небольшое SPA-приложение для просмотра и редактирования корзин пользователей на основе публичного API DummyJSON.
 
+### Демо
+
+[Открыть демо](https://gentle-sfogliatella-dd81ee.netlify.app/carts)
+
 ### Стек
 
 - **React + Vite**
