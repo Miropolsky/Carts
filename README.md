@@ -4,7 +4,7 @@
 
 ### Демо
 
-[Открыть демо](https://gentle-sfogliatella-dd81ee.netlify.app/carts)
+[Открыть демо](https://gentle-sfogliatella-dd81ee.netlify.app)
 
 ### Стек
 
