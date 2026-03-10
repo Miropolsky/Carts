@@ -24,11 +24,6 @@ const Title = styled.h1`
   font-size: 24px;
 `
 
-const Subtitle = styled.span`
-  font-size: 14px;
-  color: ${({ theme }) => theme.colors.mutedText};
-`
-
 const Main = styled.main`
   background: ${({ theme }) => theme.colors.surface};
   border-radius: ${({ theme }) => theme.radius.md};
